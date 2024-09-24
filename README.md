@@ -1,5 +1,7 @@
 # Glider - Robo Race Robot
 
+![Alt text](./SCR-20240924-rnty.png)
+
 **Glider** is a high-performance robo race robot designed for speed and agility on the track. It is controlled using an Arduino microcontroller, BTS7960 motor drivers, and a Flysky CT6B RC controller, providing precise control over motor functions and movement.
 
 ## Features
@@ -83,7 +85,7 @@ The main `loop()` function continuously reads the PWM signals and controls the m
 - This code is designed to ensure smooth transitions between movement states, offering precise control during a robo race.
 
 ### Video
-[![Watch the video](https://example.com/your-thumbnail.jpg)](https://www.instagram.com/reel/DAObigBgAjd/)
+[![Watch the video](./SCR-20240924-rofy.png)](https://www.instagram.com/reel/DAObigBgAjd/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
